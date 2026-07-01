@@ -25,6 +25,11 @@ yarn-error.log*
 .env.*
 
 # ==========================
+# Credentials - never commit
+# ==========================
+backend/src/main/resources/application.properties
+
+# ==========================
 # IDE
 # ==========================
 .vscode/
